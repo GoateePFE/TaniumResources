@@ -1,4 +1,4 @@
-# Additional resources for Tanium's integration with Microsoft's Copilot for Security
+# Resources for Tanium's integration with Microsoft's Copilot for Security
 
 Demo Video Walkthrough
 
