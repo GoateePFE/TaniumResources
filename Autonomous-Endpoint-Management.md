@@ -26,3 +26,7 @@ https://www.youtube.com/watch?v=iOE5_JWIoCQ&list=PL5QhX4gOcFFVx5UfQMH3VUn7SR-WOa
 🍿 Tanium Patch: Zero Touch + Self Service - Tanium Tech Talks #64
 
 https://www.youtube.com/watch?v=2fEaKTA80fU&list=PL5QhX4gOcFFVx5UfQMH3VUn7SR-WOaVV7&index=49&pp=gAQBiAQB
+
+🍿 RSA Interview: Tanium Guardian and Automate + Career Opportunities
+
+https://www.youtube.com/watch?v=2sHge-D4Nt8
