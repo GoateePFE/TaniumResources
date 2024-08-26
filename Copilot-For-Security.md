@@ -8,6 +8,10 @@ https://www.youtube.com/watch?v=-Ug_9zkCjnc&list=PL5QhX4gOcFFVx5UfQMH3VUn7SR-WOa
 
 https://www.youtube.com/watch?v=ZT9ZXXRU2Ss 
 
+Tanium Prompt Examples
+
+https://help.tanium.com/bundle/ug_connect_cloud/page/connect/ms_copilot_security.html#using_skills
+
 📝 Rod Trent's Copilot for Security Tanium prompt list
 
 https://github.com/rod-trent/Copilot-for-Security/blob/main/Prompts/Plugins/Tanium.md
