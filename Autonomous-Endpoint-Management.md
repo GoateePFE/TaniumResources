@@ -1,5 +1,11 @@
 # Resources for Tanium's Autonomous Endpoint Management
 
+
+Tanium Ask™ - an artificial intelligence (AI)-powered, natural language question bar that enables users to easily and rapidly query for real-time information about their environment. Leveraging industry-leading large language models, Tanium Ask can translate unstructured text input into high-fidelity queries with precise sensor and targeting parameters. (Tanium Resource Center login required for this link)
+
+https://help.tanium.com/bundle/ai/page/TaniumAI/Overview.htm
+
+
 These videos demonstrate Tanium's Autonomous Endpoint Management capabilities:
 * Automatic patching of new endpoints
 * Automatic monthly Patch Tuesday deployment rings
