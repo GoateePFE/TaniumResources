@@ -8,7 +8,15 @@ https://www.youtube.com/watch?v=-Ug_9zkCjnc&list=PL5QhX4gOcFFVx5UfQMH3VUn7SR-WOa
 
 https://www.youtube.com/watch?v=ZT9ZXXRU2Ss 
 
-Tanium Prompt Examples
+🍿 On-Demand Webinar: Empowering Microsoft Copilot for Security with real time data
+
+https://events.tanium.com/tanium-co-pilot-for-security-20240710/Sign-up
+
+🎤 Tanium Podcast: Spot and Prioritize Threats Faster with Tanium and Microsoft Copilot
+
+https://taniumpodcast.podbean.com/e/ep-7-spot-and-prioritize-threats-faster-with-tanium-and-microsoft-copilot/
+
+📝 Tanium Prompt Examples
 
 https://help.tanium.com/bundle/ug_connect_cloud/page/connect/ms_copilot_security.html#using_skills
 
